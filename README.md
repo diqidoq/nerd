@@ -5,15 +5,17 @@ The "dream" of a net server based data evaluation application with kind of a web
 
 ### NERD roadmap and features
 
-
+ + data management first
+ + never mix data management and data display
  + central data storage accessable from unlimited directions
- + multidomain multiaddress management and separation methods
- + multi language and translation management
+ + multidomain/multiaddress management and contextual separation methods
+ + advanced permission system, levels, types, groups
+ + multi language and data translation management
  + complex data relation flexibility by default, multidimensional relations
  + MVC
  + DRY
  + data consistency and extremely forced modularity
- + workflows get build by combination of existing functionality
+ + workflows by combination of existing functionality
  + application first, presentation last
  + only a few abstraction layers, no tools for all appraoch
  + speed 
