@@ -6,9 +6,13 @@ The "dream" of a modern server based data evaluation application combined with a
 ### NERD roadmap and features
 
  + Not an enforced system, rather a system builder
+ + MVC / DRY / OOP
+ + unique data values and function singularity and consistency and pluggable modularity
+ + uncoupled small and single reusable unique data, bundles or functions
+ + workflow API, a relation technique but for existing functionality to create complex functionality bundles
  + Don't couple functions by coding a system! Only code the builder for building flexible systems without code!
+ + smart function isolation to prevent other functions hindrance
  + readable self explanatory code!
- + uncoupled reusable unique functionality
  + code comments in documentation style to build docs from comments
  + data management first
  + unique reusable data value consistency
@@ -18,12 +22,9 @@ The "dream" of a modern server based data evaluation application combined with a
  + advanced permission system, levels, types, groups
  + multi language and data translation management
  + complex data relation flexibility by default, multidimensional relations
- + MVC / DRY / OOP
- + data consistency and extremely forced modularity
- + workflows by combination of existing functionality
  + application first, presentation last
  + only a few abstraction layers, no tools for all appraoch
- + speed 
+ + clean the street for speed 
  + data evaluation builder API
  + fiedable data input form API depending on data bundler API
  + fieldable data bundler API 
