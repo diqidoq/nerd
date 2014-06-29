@@ -1,7 +1,10 @@
 nerd
 ====
 
-The "dream" of a net server based data evaluation application with kind of aweb application interface. The new way of thinking about a web application builder. The future starts here. 
+The "dream" of a net server based data evaluation application with kind of a web application interface. The new way of thinking about a web application builder. The future starts here. The old principles of default "websites" or "web content" is legacy.
+
+### NERD roadmap and features
+
 
  + central data storage accessable from unlimited directions
  + multidomain multiaddress management and separation methods
