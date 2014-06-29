@@ -5,13 +5,15 @@ The "dream" of a modern server based data evaluation application combined with a
 
 ### NERD roadmap and features
 
- + not a system, rather a system builder
- + Build a system without code! Only code the builder
+ + Not an enforced system, rather a system builder
+ + Don't couple functions by coding a system! Only code the builder for building flexible systems without code!
  + readable self explanatory code!
- + comments in documentation style to build docs from comments
+ + uncoupled reusable unique functionality
+ + code comments in documentation style to build docs from comments
  + data management first
- + never mix data management and data display
+ + unique reusable data value consistency
  + central data storage accessable from unlimited directions
+ + never mix data management and data display
  + multidomain/multiaddress management and contextual separation methods
  + advanced permission system, levels, types, groups
  + multi language and data translation management
@@ -28,5 +30,5 @@ The "dream" of a modern server based data evaluation application combined with a
  + no mark up, no presentation or UI mixed with functionylity!
  + act like an EDV system which can render webpages  or UI, not upside down
  + plugin API to extend for different data display engines, theme engines, data evaluation methods
- + modern web technologies like node.js, rvm based local ruby and gems, sass, compass, jquery
- + but also php, python, perl, what works best
+ + Embrace modern web technologies like node.js, rvm based local ruby and gems, sass, compass, jquery, singularitygs, breakpoint
+ + Don't refuse proofen techniques only because they are legacy like php, python, perl, what works best
