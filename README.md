@@ -1,5 +1,5 @@
-nerd
-====
+nerd - nonlinear expression of related data
+===========================================
 
 nerd is just an idea * a brainstorming paper * a "dream" of an API driven modern, flexible and limitless modular server based data and evaluation bundler extendedable, e.g. with a browser based interface behavior, like web applications have * this way upside down makes it possible to build limitless web services * web sites * social networks * pinboards * blogs * and even (like the name suggests) complex Extended Data Processing systems like project management or company base management in the "cloud" (I hate that word) * old principles of static or pseudo-dynamic  "websites" or "web content" which tries to extend upside down to a more complex system is legacy * bundling REAL modular functionality and building extendable method boilerplates, which can adapt almost everything thinkable * that's the way to go! 
 
@@ -7,7 +7,7 @@ The idea sounds unrealistic, yes, but funny enough thou, that many "systems" out
 
 ### NERD fantasy road map and possible "features" (better say "rules", since features are limitless)
 
- + Not an enforced system, rather a system builder
+ + Not an enforced system, rather a system builder, extends on the power of data relations
  + limitless BUT understandable builder admin concept, to build admin UI like everything else
  + MVC / DRY / OOP
  + force unique data values and function singularity, consistency
@@ -40,3 +40,13 @@ The idea sounds unrealistic, yes, but funny enough thou, that many "systems" out
  + make the whole idea adaptable. don't think of it as a encapsulated entity. think of it like learning code or sociable molecules
  + BUT! Don't refuse proofed techniques only because they feel like legacy. php, python, perl, what works best, they all have their very true reason to exist.
  + DON'T follow every new hype. Be smart. Watch. Learn. Adapt not too early and not too late...
+ + keep the singularity, keep each rule and each method/function simple and maintainable
+
+### Possible APIs
+
+ + input validation API (extends form API to build rules and data input types, regex, unlimited)
+ + render API (creates simple data structure theming interfaces for mark up PLUGINS like html or xml or others based on requests and involved bundles)
+ + data or bundle relation API (uses cross ID database tables to create Filemaker-like relations)
+ + condition API (to build if then scenarios)
+ + form API (extends relation API)
+
