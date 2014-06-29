@@ -8,7 +8,7 @@ The idea sounds unrealistic, yes, but funny enough thou, that many "systems" out
 ### NERD fantasy road map and possible "features" (better say "rules", since features are limitless)
 
  + Not an enforced system, rather a system builder
- + complex but understandable builder admin tools
+ + limitless BUT understandable builder admin concept, to build admin UI like everything else
  + MVC / DRY / OOP
  + force unique data values and function singularity, consistency
  + Never hard code, keep always pluggable modularity
