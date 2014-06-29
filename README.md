@@ -1,9 +1,9 @@
 nerd
 ====
 
-nerd is just an idea * a brainstorming paper * a "dream" of a modern, flexible and limitless modular server based data and evaluation bundler combined with a browser based interface behavior like a web application * this makes it possible to build limitless web services * web sites * social networks * pinboards * blogs * and even (like the name suggests) complex EDV systems "in the cloud" ( I hate that word) * old principles of static or pseudo-dynamic  "websites" or "web content" is legacy. Bundling REAL modular functionality and building extendable method biolerplate which can adapt is the way to go. 
+nerd is just an idea * a brainstorming paper * a "dream" of a modern, flexible and limitless modular server based data and evaluation bundler combined with a browser based interface behavior like a web application * this makes it possible to build limitless web services * web sites * social networks * pinboards * blogs * and even (like the name suggests) complex EDP systems "in the cloud" ( I hate that word) * old principles of static or pseudo-dynamic  "websites" or "web content" is legacy * bundling REAL modular functionality and building extendable method boilerplates, which can adapt * that's the way to go! 
 
-The features sound pointless and unrealistic, but funny enough, that many "systems" already have those approaches in them, but suffer simply from ... being a system which renders most of their goals obsolete. Think of being a system builder! That's the trick. Don't think of providing "features". Provide the "methods" and smart "rules" to build flexible "features" without coding.
+The idea sounds unrealistic, yes, but funny enough thou, that many "systems" out there already have those approaches in them * but they suffer simply from ... ... ... being a "system"! *  which renders most of these goals obsolete * don't think of a system * think of being a system builder * that's the trick * don't think of providing "features" * provide the "methods" and smart "rules" to make it possible to build flexible bundled "features" and pack it in UI to use it without coding.
 
 ### NERD fantasy road map and possible "features" (better say "rules", since features are limitless)
 
@@ -39,4 +39,4 @@ The features sound pointless and unrealistic, but funny enough, that many "syste
  + Embrace modern web technologies like node.js, rvm based local ruby and gems, sass, compass, jquery, singularitygs, breakpoint
  + make the whole idea adaptable. don't think of it as a encapsulated entity. think of it like learning code or sociable molecules
  + BUT! Don't refuse proofed techniques only because they feel like legacy. php, python, perl, what works best, they all have their very true reason to exist.
- + DON'T follow every new hype. Be smart. Watch. Learn. Adapt not too early and not to late.
+ + DON'T follow every new hype. Be smart. Watch. Learn. Adapt not too early and not too late...
