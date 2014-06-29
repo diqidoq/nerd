@@ -1,8 +1,7 @@
 nerd
 ====
 
-network data evaluation application with web application interface
-the new way of thinking about a web application builder
+The "dream" of a net server based data evaluation application with kind of aweb application interface. The new way of thinking about a web application builder. The future starts here. 
 
  + central data storage accessable from unlimited directions
  + multidomain multiaddress management and separation methods
