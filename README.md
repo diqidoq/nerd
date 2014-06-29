@@ -12,8 +12,7 @@ The "dream" of a modern server based data evaluation application combined with a
  + advanced permission system, levels, types, groups
  + multi language and data translation management
  + complex data relation flexibility by default, multidimensional relations
- + MVC
- + DRY
+ + MVC / DRY / OOP
  + data consistency and extremely forced modularity
  + workflows by combination of existing functionality
  + application first, presentation last
