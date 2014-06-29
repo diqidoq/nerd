@@ -5,6 +5,10 @@ The "dream" of a modern server based data evaluation application combined with a
 
 ### NERD roadmap and features
 
+ + not a system, rather a system builder
+ + Build a system without code! Only code the builder
+ + readable self explanatory code!
+ + comments in documentation style to build docs from comments
  + data management first
  + never mix data management and data display
  + central data storage accessable from unlimited directions
