@@ -1,4 +1,4 @@
-nerd - nonlinear expression of related data
+nerd - narrative expression of related data
 ===========================================
 
 nerd is just an idea * a brainstorming paper * a "dream" of an API driven modern, flexible and limitless modular server based data and evaluation bundler extendable, e.g. with a browser based interface behavior, like web applications have * this way upside down makes it possible to build limitless web services * web sites * social networks * pin-boards * blogs * and even (like the name suggests) complex Extended Data Processing systems like project management or company base management in the "cloud" (I hate that word) * 
