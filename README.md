@@ -8,13 +8,13 @@ passed on principles of static or pseudo-dynamic data shoving called "websites" 
 The idea sounds unrealistic, yes, but funny enough thou, that many "systems" out there already have those approaches in them * but they suffer simply from ... ... ... being an enclosed "system", which encapsulates itself by being a "finished" system which tries to stretch its own boundaries then again, tries to "grow" with each version out of its own set limits *  which renders most of these goals obsolete because of conceptual hindrance (falling in each others way) * the better approach is to simply provide heterogenic **builders** or bundles of heterogenic **builders** which can build all together a temporary homogenic entity simulating a resiliently service interface, raising constructs which collide data based on rules * no frozen methods * no fixed systematic * don't think of a system * think of  a system-builder * that's the trick * don't think of providing "features" * think of providing the "methods" and smart "rules" (APIs) to make it possible to build flexible bundled "feature-sets" and pack it in UI to be expandable without coding * on the end you have a lego play system where you can plug and play APIs to create stunning nerds :-)
 
 ### NERD fantasy road map and possible "features" (better say "rules", since features are limitless)
-
+ + as simple as dragging and dropping code blocks which "understand" each other out of the box
  + Not an enforced enclosed system, rather a system builder, extending on the power of data relations
  + limitless BUT understandable builder admin concept, to build admin UI like everything else
  + MVC / DRY / OOP
- + force unique data values and function singularity, consistency
- + Never hard code, keep always pluggable modularity
- + uncoupled small and single reusable unique value bundles and functions
+ + data and function singularity to follow consistency paradigm for both: data structure and functionality
+ + pluggable modularity. always! Never hard code use-cases!
+ + build small peaces to create bigger ones: uncoupled small and single reusable unique value bundles and functions
  + workflow API, a relation technique but for existing functionality to create complex functionality bundles
  + Don't couple functionality like coding a system! Only code the builder methods for building flexible systems without code!
  + smart function compatibility to prevent hindrance for new functions
@@ -30,12 +30,12 @@ The idea sounds unrealistic, yes, but funny enough thou, that many "systems" out
  + complex data relation flexibility by default, multidimensional relations
  + application first, presentation last
  + no abstraction layer mess, no mass compatibility to reach brighter audience
- + reach out with smart functionality and quality for the smart users! not with over-whole compatibility to reach all user by risking layer overload
+ + reach out with smart functionality and quality for the smart users! not with over-whole compatibility from scratch to reach all user by risking layer overload
  + clean the street for speed 
  + data evaluation builder API
  + field-able data input form API depending on data bundler API
  + field-able data bundler API 
- + no mark up in methods! no presentation structures mixed with functionality!
+ + no mark up in code! no presentation structures mixed with functionality!
  + act like an EDP system which (also) can render webpages or browser based UI, not upside down
  + plugin API to extend for different data display engines, theme engines, data evaluation methods. Keep it open, clean, transparent and code familiar. NO NEW terminology concept to learn!
  + Embrace modern web technologies like node.js, rvm based local ruby and gems, sass, compass, jquery, singularitygs, breakpoint
